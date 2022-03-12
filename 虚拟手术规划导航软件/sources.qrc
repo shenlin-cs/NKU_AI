@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Resources/logo_u3.png</file>
+        <file>Resources/u4_div.jpg</file>
+        <file>Resources/u10_div.jpg</file>
+        <file>Resources/u11.png</file>
+        <file>Resources/u13.svg</file>
+        <file>Resources/u36.png</file>
+        <file>Resources/u38.png</file>
+        <file>Resources/u39.png</file>
+        <file>Resources/u43.jpg</file>
+        <file>Resources/u44.jpg</file>
+        <file>Resources/u52.png</file>
+        <file>Resources/u53.png</file>
+        <file>Resources/u54.svg</file>
+        <file>Resources/拖动_u12.jpg</file>
+        <file>Resources/主背景_u0.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,38 @@
+﻿  Reading Qt configuration (D:/Qt/Qt5.9.2/5.9.2/msvc2017_64/bin/qmake)
+  Generate moc_predefs.h
+  mainwindow.cpp
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(45): warning C4189: “data”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(350): warning C4100: “callData”: 未引用的形参
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(350): warning C4100: “eventId”: 未引用的形参
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(440): warning C4100: “callData”: 未引用的形参
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(440): warning C4100: “eventId”: 未引用的形参
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(2210): warning C4189: “renWin2”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(2209): warning C4189: “renWin”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(2211): warning C4189: “iren”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(2263): warning C4189: “fileName”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(2264): warning C4189: “fileType”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(2255): warning C4189: “count”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(2549): warning C4189: “slicer_num”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(2549): warning C4189: “row”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(2549): warning C4189: “col”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(2807): warning C4189: “slicer_num”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(2807): warning C4189: “row”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(2807): warning C4189: “col”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(6390): warning C4101: “cur_cyPos”: 未引用的局部变量
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(6385): warning C4189: “n_up”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(6386): warning C4189: “step”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(6390): warning C4101: “cur_cyRot”: 未引用的局部变量
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(6387): warning C4189: “z_step”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(6626): warning C4189: “a”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(6756): warning C4189: “n_up”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(6757): warning C4189: “step”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(6758): warning C4189: “z_step”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(7008): warning C4189: “frameRate”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(7009): warning C4189: “fileName”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(7010): warning C4189: “fileType”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(7007): warning C4189: “reductionFactor”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(7006): warning C4189: “clip”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(7005): warning C4189: “blendType”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(7001): warning C4189: “count”: 局部变量已初始化但不引用
+d:\qt\qtproject\test-2\test2-old\mainwindow.cpp(7002): warning C4189: “dirname”: 局部变量已初始化但不引用
+  test2.vcxproj -> D:\Qt\Qtproject\test-2\test2-old\release\test2.exe

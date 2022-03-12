@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/ico/bg_close_button.png</file>
+        <file>Resource/ico/bg_max_button.png</file>
+        <file>Resource/style.qss</file>
+        <file>Resource/ico/bg_min_button.png</file>
+        <file>Resource/ico/bg_min_button_hover.png</file>
+        <file>Resource/ico/bg_min_button_pressed.png</file>
+        <file>Resource/ico/bg_close_button_hover.png</file>
+        <file>Resource/ico/bg_close_button_pressed.png</file>
+        <file>Resource/ico/bg_max_button_hover.png</file>
+        <file>Resource/ico/bg_max_button_pressed.png</file>
+        <file>Resource/ico/bg_normal_button.png</file>
+        <file>Resource/ico/bg_normal_button_hover.png</file>
+        <file>Resource/ico/bg_normal_button_pressed.png</file>
+        <file>Resource/ico/logo.png</file>
+        <file>Resource/ico/Delimiter-1.png</file>
+        <file>Resource/ico/Delimiter-2.png</file>
+        <file>Resource/ico/start.png</file>
+        <file>Resource/ico/stop.png</file>
+        <file>Resource/ico/cut01.png</file>
+        <file>Resource/ico/cut02.png</file>
+        <file>Resource/ico/vtk00.jpg</file>
+        <file>Resource/ico/vtk01.jpg</file>
+    </qresource>
+</RCC>
