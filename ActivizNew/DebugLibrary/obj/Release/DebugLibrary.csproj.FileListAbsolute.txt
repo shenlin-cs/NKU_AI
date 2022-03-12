@@ -1,0 +1,6 @@
+D:\projectC#\ActivizNew\DebugLibrary\bin\Release\DebugLibrary.dll
+D:\projectC#\ActivizNew\DebugLibrary\bin\Release\DebugLibrary.pdb
+D:\projectC#\ActivizNew\DebugLibrary\obj\Release\DebugLibrary.csprojAssemblyReference.cache
+D:\projectC#\ActivizNew\DebugLibrary\obj\Release\DebugLibrary.csproj.CoreCompileInputs.cache
+D:\projectC#\ActivizNew\DebugLibrary\obj\Release\DebugLibrary.dll
+D:\projectC#\ActivizNew\DebugLibrary\obj\Release\DebugLibrary.pdb

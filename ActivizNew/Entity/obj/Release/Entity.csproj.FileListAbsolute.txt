@@ -1,0 +1,6 @@
+D:\医疗影像\ActivizNew\Entity\obj\Release\Entity.csprojAssemblyReference.cache
+D:\医疗影像\ActivizNew\Entity\obj\Release\Entity.csproj.CoreCompileInputs.cache
+D:\project\医疗影像\ActivizNew\Entity\obj\Release\Entity.csprojAssemblyReference.cache
+D:\project\医疗影像\ActivizNew\Entity\obj\Release\Entity.csproj.CoreCompileInputs.cache
+D:\projectC#\ActivizNew\Entity\obj\Release\Entity.csprojAssemblyReference.cache
+D:\projectC#\ActivizNew\Entity\obj\Release\Entity.csproj.CoreCompileInputs.cache
