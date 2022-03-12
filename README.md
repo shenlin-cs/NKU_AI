@@ -5,6 +5,10 @@
 软著：多模态医学影像融合建模软件V1.0 ，登记号：2021SR0248437。
 软著：人工耳蜗精准植入手术规划导航软件V1.0 ，登记号：2021SR0255993。
 软著：口腔疾病精准诊疗软件系统V1.0，登记号：2021SR0248638。
+![image](https://user-images.githubusercontent.com/61179305/158024394-862b5053-4193-41e9-b3e5-50bb543f4990.png)
+![image](https://user-images.githubusercontent.com/61179305/158024401-859f37c4-323f-41c1-9cd1-df7cb91f532c.png)
+
+
 ## U-Net_erwo
 对19组CT序列的每张CT图像进行耳蜗和面神经部分的标注，每组CT图像的有效数据量，即同时出现耳蜗和面神经的CT数据为8张至12张不等，利用标注得到的数据集训练一个识别耳蜗和面神经部分的U-Net网络，根据训练好的网络进行耳蜗和面神经部分的自动识别以进行后续的规划实验。
 ![image](https://user-images.githubusercontent.com/61179305/158023403-dbd3f0d6-4378-4a94-8b12-ff39f32fe9eb.png)
